@@ -1,0 +1,9 @@
+@use 'bootstrap';
+
+body {
+    background-color: black;
+    position: relative;
+    margin: 0;
+    overflow: hidden;
+    /* Nascondi le scrollbar */
+}
